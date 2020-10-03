@@ -1,3 +1,4 @@
+//Code Starts Here
 #include <iostream>
 #include <cmath>
 
@@ -27,3 +28,4 @@ int main(){
         cout << "ERROR" << endl; // Print out error
     }
 }
+//Code Ends Here
