@@ -1,2 +1,2 @@
 # conditional
-SImple conditional if else if else on c++
+Simple conditional if else if else on C++
